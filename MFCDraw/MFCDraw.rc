@@ -277,7 +277,7 @@ BEGIN
         MENUITEM SEPARATOR
         MENUITEM "显示预定义位图(&D)",                 ID_BITMAP_DEFINE
         MENUITEM "位图动画(&A)...",                 ID_BITMAP_CARTOON
-        MENUITEM "Rotation(&R)",                ID_BMP_ROTATION
+        MENUITEM "&Rotation",                   ID_BMP_ROTATION
         MENUITEM "&Gray",                       ID_BITMAP_GRAY
         MENUITEM "&Negative",                   ID_BITMAP_NEGATIVE
         MENUITEM "&Woodcut",                    ID_BITMAP_Woodcut
@@ -320,15 +320,15 @@ END
 // Dialog
 //
 
-IDD_ABOUTBOX DIALOGEX 0, 0, 170, 62
+IDD_ABOUTBOX DIALOGEX 0, 0, 182, 73
 STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
 CAPTION "关于 MFCDraw"
 FONT 9, "MS Shell Dlg", 0, 0, 0x1
 BEGIN
-    ICON            IDR_MAINFRAME,IDC_STATIC,14,14,21,20
+    ICON            IDR_MAINFRAME,IDC_STATIC,14,14,20,20
     LTEXT           "MFCDraw，1.0 版",IDC_STATIC,42,14,114,8,SS_NOPREFIX
-    LTEXT           "Copyright (C) 2015",IDC_STATIC,42,26,114,8
-    DEFPUSHBUTTON   "确定",IDOK,113,41,50,14,WS_GROUP
+    LTEXT           "Copyright (C) 2015 Author:BasicCoder",IDC_STATIC,47,26,128,8
+    DEFPUSHBUTTON   "确定",IDOK,125,52,50,14,WS_GROUP
 END
 
 IDD_DRAW_SET_DIALOG DIALOGEX 0, 0, 257, 223
@@ -447,15 +447,15 @@ VS_VERSION_INFO VERSIONINFO
 BEGIN
     BLOCK "StringFileInfo"
     BEGIN
-        BLOCK "080404B0"
+        BLOCK "080404b0"
         BEGIN
-            VALUE "CompanyName", "TODO:  <公司名>"
+            VALUE "CompanyName", "TODO:  <BasicCoder>"
             VALUE "FileDescription", "MFCDraw"
             VALUE "FileVersion", "1.0.0.1"
             VALUE "InternalName", "MFCDraw.exe"
-            VALUE "LegalCopyright", "TODO:  (C) <公司名>。  保留所有权利。"
+            VALUE "LegalCopyright", "TODO:  (C) <BasicCoder>。  保留所有权利。"
             VALUE "OriginalFilename", "MFCDraw.exe"
-            VALUE "ProductName", "TODO:  <产品名>"
+            VALUE "ProductName", "TODO:  <BasicCoder>"
             VALUE "ProductVersion", "1.0.0.1"
         END
     END
@@ -477,9 +477,9 @@ BEGIN
     IDD_ABOUTBOX, DIALOG
     BEGIN
         LEFTMARGIN, 7
-        RIGHTMARGIN, 163
+        RIGHTMARGIN, 175
         TOPMARGIN, 7
-        BOTTOMMARGIN, 55
+        BOTTOMMARGIN, 66
     END
 
     IDD_DRAW_SET_DIALOG, DIALOG

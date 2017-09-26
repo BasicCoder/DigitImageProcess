@@ -7,4 +7,4 @@
 
 # 3.Run
 
-![](https://raw.githubusercontent.com/BasicCoder/DigitImageProcess/master/MFCDraw/1-1403012036251U.jpg)
+![](https://raw.githubusercontent.com/BasicCoder/DigitImageProcess/master/1-1403012036251U.jpg)

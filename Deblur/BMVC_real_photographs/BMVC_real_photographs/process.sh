@@ -1,0 +1,1 @@
+ls | egrep 'jpg|JPG|png' | /mnt/data/data/SR/BMVC_archive/scripts/processWholeImage.py --model_def /mnt/data/data/SR/BMVC_archive/BMVC_nets/S14_19_200.deploy  --out_scale 1 --pretrained_model /mnt/data/data/SR/BMVC_archive/BMVC_nets/S14_19_real_130000.model --extract_layer CONVX_15 --border 25 --gpu --tile_resolution 150

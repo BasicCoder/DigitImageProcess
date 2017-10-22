@@ -8,16 +8,16 @@
 ## 2.Compile Code
 
 ## 3.Run
-> 1.Course Requirements Location:
+> 1. Course Requirements Location:
 > > Menu:位图 --> (Rotation -- Relievo)
 ![](https://raw.githubusercontent.com/BasicCoder/DigitImageProcess/master/1-1403012036251U.jpg)
 
 ---
 ## Delur
 ## 1.Environment configuration
-> 1.Python 2.7
-> 2.Caffe
-> 3.Ubuntu 14.04.5 LTS
+> 1. Python 2.7
+> 2. Caffe
+> 3. Ubuntu 14.04.5 LTS
 
 ## 2.Run
 > 1. On Real Model: 

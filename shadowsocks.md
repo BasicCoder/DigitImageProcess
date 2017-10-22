@@ -1,6 +1,6 @@
 # Shadowsocks(python Version)
 ---
-# **Use**
+# * **Client Use** *
 > 1. ss client download and install
 > 2. ss server address: ****
 > 3. Remote Port: 17 + 学号后三位
@@ -10,7 +10,7 @@
 > 7. (Optional) Ipv6 Route turn on
 > 8. (Optional) DNS Forwarding turn on
 
-
+---
 
 ## Environment
 > 1. Ubuntu 16.04 LTS

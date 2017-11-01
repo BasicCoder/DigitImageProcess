@@ -4,7 +4,7 @@
 > 1. ss client download and install
 > 2. ss server address: ****
 > 3. Remote Port: 17 + 学号后三位
-> 4. Local Port:1080
+> 4. Local Port:2160
 > 5. Password:学号
 > 6. Encrypt Method:RC4-MD5
 > 7. (Optional) Ipv6 Route turn on

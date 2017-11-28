@@ -1,5 +1,5 @@
 
-| Source | Result | Result(@[](https://github.com/asmartsnail)) |
+| Source | Result | Result(@ [asmartsnail](https://github.com/asmartsnail)) |
 |  ---   |  ---   |   ---    |
 | ![](https://raw.githubusercontent.com/BasicCoder/DigitalImageProcess/master/SuperResolution/LiveDemo/s_1.png) | ![](https://raw.githubusercontent.com/BasicCoder/DigitalImageProcess/master/SuperResolution/LiveDemo/1.png) | ![](https://raw.githubusercontent.com/BasicCoder/DigitalImageProcess/master/SuperResolution/LiveDemo/L-1.jpg) |
 | ![](https://raw.githubusercontent.com/BasicCoder/DigitalImageProcess/master/SuperResolution/LiveDemo/s_2.png) | ![](https://raw.githubusercontent.com/BasicCoder/DigitalImageProcess/master/SuperResolution/LiveDemo/2.png) | ![](https://raw.githubusercontent.com/BasicCoder/DigitalImageProcess/master/SuperResolution/LiveDemo/L-2.jpg) |

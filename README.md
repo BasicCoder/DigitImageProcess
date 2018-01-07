@@ -44,6 +44,11 @@
 ### 2.Code:
 > 1. sh inference_SRGAN.sh
 
+## VideoSuperResolution
+### 1.Use ImageSuperResolution to process per image in Video
+### 2.Merge all processed image to video.
+> `python mergeImage2Video.py`
+
 **Note:**
    > - The picture has nothing to do with the content！
 

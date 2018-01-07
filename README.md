@@ -37,6 +37,13 @@
 ## 3.Run
 > `python ExtractSpecialFile.py`
 
+## SuperResolution
+## 1.Environment configuration
+> 1. python 2
+
+## 2.Code:
+> 1. sh inference_SRGAN.sh
+
 **Note:**
    > - The picture has nothing to do with the content！
 
